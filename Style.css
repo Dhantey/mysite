@@ -42,6 +42,8 @@
     }
     .p{
         text-transform: capitalize;
+        text-align: center;
+        word-spacing: 2px;
     }
     .KT{
         margin-top: 50px;
