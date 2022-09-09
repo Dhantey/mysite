@@ -1,0 +1,57 @@
+<style>
+        
+    .TK{
+        color: red;
+        background-color: yellow;
+    }
+    @import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+    body{
+            background-color: rgba(233, 0, 225, 0.4);
+              font-family: Lobster Two;
+    }
+    p{
+        background-color: orange;
+        color: #add;
+        font-size: 2em;
+        font-style: oblique;
+    }
+    .MR{
+        color: bisque;
+    }
+    table{ ta
+
+    }
+    #Tiguan{
+        
+    }
+    .blue{
+        height: 100px;
+        width: 200px;
+        color: hsl(234, 20%, 550%);
+        padding-top: 20%;
+        padding-bottom: 30%;
+        padding-left: 40%;
+        padding-right: 10%;
+        border: 2px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        margin-left: 100px;
+        margin-right: 100px;
+        
+
+    }
+    .p{
+        text-transform: capitalize;
+    }
+    .KT{
+        margin-top: 50px;
+        text-align: center;
+    }
+    a{
+        text-align: end;
+        text-transform: capitalize;
+    }
+    .ig{
+        border-image: round;
+    }
+</style>
