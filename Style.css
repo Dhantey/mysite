@@ -53,6 +53,7 @@
     a{
         text-align: end;
         text-transform: capitalize;
+        text-decoration: none;
     }
     .ig{
         border-image: round;
