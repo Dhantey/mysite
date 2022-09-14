@@ -54,13 +54,16 @@
         text-align: end;
         text-transform: capitalize;
         text-decoration: none;
-        color: aqua;
+        color: darkcyan;
     }
     a:visited{
         color: yellowgreen;
     }
     a:hover{
         color: red;
+    }
+    a:active{
+        color: darkgoldenrod;
     }
     .ig{
         border-image: round;
