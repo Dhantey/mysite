@@ -55,6 +55,9 @@
         text-transform: capitalize;
         text-decoration: none;
     }
+    a:visited{
+        color: yellowgreen;
+    }
     .ig{
         border-image: round;
     }
