@@ -54,6 +54,7 @@
         text-align: end;
         text-transform: capitalize;
         text-decoration: none;
+        color: aqua;
     }
     a:visited{
         color: yellowgreen;
