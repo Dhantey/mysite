@@ -18,6 +18,9 @@
     .MR{
         color: bisque;
     }
+    .table{
+        display: inline;
+    }
     table, th, td{
         border: 2px solid black;
     }
