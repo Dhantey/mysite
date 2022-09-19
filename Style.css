@@ -1,6 +1,8 @@
 <style>
         
-    
+    .TK{
+        display: inline;
+    }
     @import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
     body{
             background-color: rgba(233, 0, 225, 0.4);
@@ -18,7 +20,7 @@
     }
     .table{
         display: inline;
-        padding: 50px;
+        padding:10px ;
     }
     table, th, td{
         border: 2px solid black;
