@@ -18,12 +18,11 @@
     .MR{
         color: bisque;
     }
-    table{ ta
+    table, th, tr{
+        border: 20px;
+        color: ghostwhite;
+    }
 
-    }
-    .IN{
-        display: inline;
-    }
     .blue{
         height: 100px;
         width: 200px;
