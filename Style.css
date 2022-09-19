@@ -73,6 +73,7 @@
         text-transform: uppercase;
     }
     .side{
+        background-color: black;
         position: absolute;
         top: 10px;
         left: 10px;
