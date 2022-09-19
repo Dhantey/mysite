@@ -18,9 +18,8 @@
     .MR{
         color: bisque;
     }
-    table, tr, th{
-        border: 10px;
-        color: ghostwhite;
+    table, th, td{
+        border: 2px solid black;
     }
     .list{
         text-align: center;
