@@ -19,7 +19,7 @@
         color: bisque;
     }
     .table{
-        display: inline;
+        display: inline-table;
         padding:10px ;
     }
     table, th, td{
