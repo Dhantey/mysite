@@ -69,7 +69,13 @@
         color: darkcyan;
     }
     h2{
-        text-align: right;
+        text-align: left;
+        text-transform: uppercase;
+    }
+    .side{
+        position: absolute;
+        top: 10px;
+        left: 10px;
     }
     span:first-child{
         color: blueviolet;
