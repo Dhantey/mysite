@@ -20,6 +20,7 @@
     }
     .table{
         display: inline;
+        padding: auto;
     }
     table, th, td{
         border: 2px solid black;
