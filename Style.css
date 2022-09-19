@@ -43,7 +43,7 @@
         display: inline;
         background-color: red;
         padding: 10px;
-        text-align: center;
+        align-items: center;
     }
     a{
         color: black;
