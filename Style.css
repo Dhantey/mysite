@@ -42,7 +42,7 @@
 
     }
     li a{
-        display: block;
+        display: inline;
         background-color: burlywood;
     }
     .p{
