@@ -56,6 +56,10 @@
         text-decoration: none;
         color: darkcyan;
     }
+    span:first-child{
+        color: blueviolet;
+        text-transform: uppercase;
+    }
     a:visited{
         color: yellowgreen;
     }
