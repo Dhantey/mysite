@@ -22,7 +22,9 @@
         border: 10px;
         color: ghostwhite;
     }
-
+    .list{
+        text-align: center;
+    }
     .blue{
         height: 100px;
         width: 200px;
