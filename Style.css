@@ -41,8 +41,9 @@
         
 
     }
-    li{
-        display: inline-block;
+    li a{
+        display: block;
+        background-color: burlywood;
     }
     .p{
         text-transform: capitalize;
