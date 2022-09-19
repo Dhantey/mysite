@@ -1,6 +1,6 @@
 <style>
     h2{
-        position: fixed;
+        position: -webkit-sticky;
         top: 10px;
         left: 10px;
         padding: 10px;
