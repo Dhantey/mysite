@@ -41,6 +41,9 @@
         
 
     }
+    li{
+        display: inline-block;
+    }
     .p{
         text-transform: capitalize;
         text-align: center;
