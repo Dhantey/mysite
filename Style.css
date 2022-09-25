@@ -79,7 +79,7 @@
     .side{
         background-color: black;
         color: white;
-        position: sticky;
+        position: relative;
         padding-left: 20px;
         width: 200px;
         height: 40px;
