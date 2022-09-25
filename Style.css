@@ -82,7 +82,7 @@
         position: sticky;
         padding-left: 20px;
         width: 200px;
-        height: 200px;
+        height: 5px;
     }
     span:first-child{
         color: blueviolet;
