@@ -21,6 +21,7 @@
         display: inline-table;
         padding:10px ;
         list-style: none;
+        float: right;
     }
     table, th, td{
         border: 2px solid black;
@@ -63,7 +64,7 @@
         text-align: center;
     }
     .right{
-        float: inherit;
+        float: right;
     }
     a{
         text-align: end;
