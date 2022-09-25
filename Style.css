@@ -62,6 +62,9 @@
         margin-top: 50px;
         text-align: center;
     }
+    .right{
+        float: right;
+    }
     a{
         text-align: end;
         text-transform: capitalize;
