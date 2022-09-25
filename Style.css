@@ -82,7 +82,8 @@
         position: sticky;
         padding-left: 20px;
         width: 200px;
-        height: 50px;
+        height: 30px;
+        overflow: scroll;
     }
     span:first-child{
         color: blueviolet;
