@@ -63,7 +63,7 @@
         text-align: center;
     }
     .right{
-        float: right;
+        float: inherit;
     }
     a{
         text-align: end;
