@@ -92,7 +92,7 @@
     article span{
         background-color: black;
     }
-    article > span{
+    article > p + span{
         background-color: white;
     }
    
