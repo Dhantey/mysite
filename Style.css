@@ -92,9 +92,6 @@
     article span{
         background-color: black;
     }
-    article div span{
-        background-color: white;
-    }
     a:visited{
         color: yellowgreen;
     }
