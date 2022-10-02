@@ -89,7 +89,7 @@
         color: blueviolet;
         text-transform: uppercase;
     }
-    article p + span{
+    p span{
         background-color: aquamarine;
     }
     a:visited{
