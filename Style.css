@@ -89,6 +89,9 @@
         color: blueviolet;
         text-transform: uppercase;
     }
+    article p + span{
+        background-color: aquamarine;
+    }
     a:visited{
         color: yellowgreen;
     }
