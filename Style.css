@@ -89,12 +89,10 @@
         color: blueviolet;
         text-transform: uppercase;
     }
-    article > span{
+    article span{
         background-color: black;
     }
-    article > p + span{
-        background-color: white;
-    }
+   
    
     a:visited{
         color: yellowgreen;
