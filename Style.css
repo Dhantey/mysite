@@ -89,6 +89,10 @@
         color: blueviolet;
         text-transform: uppercase;
     }
+    header h1::first-letter{
+        font-size: 4em;
+        color: red;
+    }
     article span{
         background-color: black;
     }
