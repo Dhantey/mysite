@@ -92,7 +92,7 @@
     article p span{
         background-color: black;
     }
-    article p > span{
+    article div span{
         background-color: blue;
     }
     a:visited{
