@@ -92,6 +92,7 @@
     header h1::first-letter{
         font-size: 4em;
         color: red;
+        background-color: blue;
     }
     article span{
         background-color: black;
