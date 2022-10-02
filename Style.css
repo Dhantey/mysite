@@ -95,8 +95,8 @@
     article > p ~ span{
         background-color: white;
     }
-   a[href='#Tiguan']{
-    color: azure;
+   a[href='#Tiguan'] {
+    color: green;
    }
     a:visited{
         color: yellowgreen;
